@@ -9,6 +9,8 @@ New map made by Meowaura: https://lit.link/meowaura
 New map video: maybe in the future   
 New map download: https://github.com/smallbing87/McPlayHD-Remade/releases   
    
+Servers: mcplayhd.net/bridger.land/woolpixel.top   
+   
 Pictures (look closely, there's headhitters for every mode)   
 https://imgur.com/a/jpOGDnr   
    
