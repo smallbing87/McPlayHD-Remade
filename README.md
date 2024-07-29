@@ -9,7 +9,7 @@ New map made by Meowaura: https://lit.link/meowaura
 New map video: maybe in the future   
 New map download: https://github.com/smallbing87/McPlayHD-Remade/releases   
    
-Servers: mcplayhd.net/greev.eu/bridger.land/guadflame.com/woolpixel.top   
+Servers: mcplayhd.net/greev.eu/bridger.land/guadflame.com/woolpixel.top/bruhbridge.top/bedwarspractice.club
    
 the extra modes are for straight and inclined shorts only at the moment   
 i prob wont add others bcz im lazy asf   
