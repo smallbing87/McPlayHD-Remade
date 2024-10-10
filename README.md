@@ -36,5 +36,6 @@ rporibdge / rporibdge.mine.fun / offline
 aquabridge / aquabridge.tk / offline   
 cufpbridge / cufpbridge.tk / offline   
 solarbridger / mc.solarbridger.tk / offline   
+trainingcore / trainingcore.ml / offline  
 redpixel / unknown / offline   
 ironbridge / unknown / offline   
