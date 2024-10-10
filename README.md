@@ -17,12 +17,12 @@ last check: oct. 10, 2024
 
 mcplayhd / mcplayhd.net / online   
 greev / greev.eu / online   
-quadflame / quadflame.com / offline   
+quadflame / quadflame.com / down   
 bruhbridge / bruhbridge.top / online   
 woolpixel / woolpixel.top / online   
 bridgerland / bridger.land / online   
 bedwarspractice / bedwarspractice.club / online   
-teamholy / teamholy.de / offline   
+teamholy / teamholy.de / down   
 antiac / antiac.net / online   
 gommehd / gommehd.net / online   
 mcplaysd / mcplaysd.pies.cf / online   
@@ -30,12 +30,12 @@ spieleoase / spieleoase.net / online
 weakest / weakestww.ru / online   
 woolcraft / woolcraftw.ru / online   
 mustpvp / mustpvp.pl / online   
-bridgersilk / bridgersilk.com / offline   
-probridge / probridge.mcserv.me / offline  
-rporibdge / rporibdge.mine.fun / offline   
-aquabridge / aquabridge.tk / offline   
-cufpbridger / cufpbridger.tk / offline   
-solarbridger / mc.solarbridger.tk / offline   
-trainingcore / trainingcore.ml / offline  
-redpixel / unknown / offline   
-ironbridge / unknown / offline   
+bridgersilk / bridgersilk.com / down   
+probridge / probridge.mcserv.me / down  
+rporibdge / rporibdge.mine.fun / down   
+aquabridge / aquabridge.tk / down   
+cufpbridger / cufpbridger.tk / down   
+solarbridger / mc.solarbridger.tk / down   
+trainingcore / trainingcore.ml / down  
+redpixel / unknown / down   
+ironbridge / unknown / down   
