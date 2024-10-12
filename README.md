@@ -13,7 +13,7 @@ the extra modes are for straight and inclined shorts only at the moment
 i prob wont add others bcz im lazy asf   
 
 server used list (name / ip / status)   
-last check: oct. 10, 2024
+last check: oct. 12, 2024
 
 mcplayhd / mcplayhd.net / online   
 greev / greev.eu / online   
@@ -22,7 +22,6 @@ bruhbridge / bruhbridge.top / online
 woolpixel / woolpixel.top / online   
 bridgerland / bridger.land / online   
 bedwarspractice / bedwarspractice.club / online   
-teamholy / teamholy.de / down   
 antiac / antiac.net / online   
 gommehd / gommehd.net / online   
 mcplaysd / mcplaysd.pies.cf / online   
@@ -37,5 +36,7 @@ aquabridge / aquabridge.tk / down
 cufpbridger / cufpbridger.tk / down   
 solarbridger / mc.solarbridger.tk / down   
 trainingcore / trainingcore.ml / down  
+teamholy / teamholy.de / down   
+teamtyudo / teamtyudo.de / down    
 redpixel / unknown / down   
 ironbridge / unknown / down   
