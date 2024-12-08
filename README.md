@@ -13,7 +13,7 @@ the extra modes are for short and inclined only at the moment
 i prob wont add others bcz im lazy asf   
 
 server used list (name / ip / status)   
-last check: nov. 19, 2024
+last check: dec. 8, 2024
 
 mcplayhd / mcplayhd.net / online   
 greev / greev.eu / online   
@@ -25,7 +25,7 @@ bedwarspractice / bedwarspractice.club / online
 antiac / antiac.net / online   
 teamholy / teamholy.de / online   
 gommehd / gommehd.net / online   
-mcplaysd / mcplaysd.pies.cf / online   
+mcplaysd / mcplaysd.pies.cf / offline   
 spieleoase / spieleoase.net / online   
 weakest / weakestww.ru / online   
 woolcraft / woolcraftw.ru / online   
