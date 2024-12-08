@@ -9,7 +9,7 @@ New map made by Meowaura: https://e-z.bio/meowaura
 New map video: maybe in the future   
 New map download: https://github.com/smallbing87/McPlayHD-Remade/releases/latest  
 
-the extra modes are for short and inclined only at the moment   
+the extra modes are for short and inclined only at the moment (mainly for short mode)   
 i prob wont add others bcz im lazy asf   
 
 server used list (name / ip / status)   
