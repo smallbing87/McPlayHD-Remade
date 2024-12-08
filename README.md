@@ -25,12 +25,12 @@ bedwarspractice / bedwarspractice.club / online
 antiac / antiac.net / online   
 teamholy / teamholy.de / online   
 gommehd / gommehd.net / online   
-mcplaysd / mcplaysd.pies.cf / offline   
 spieleoase / spieleoase.net / online   
 weakest / weakestww.ru / online   
 woolcraft / woolcraftw.ru / online   
 mustpvp / mustpvp.pl / online   
 wavemc / wavemc.com.br / online  
+mcplaysd / mcplaysd.pies.cf / down   
 probridge / probridge.mcserv.me / down  
 rporibdge / rporibdge.mine.fun / down   
 bridgersilk / bridgersilk.tk / down   
