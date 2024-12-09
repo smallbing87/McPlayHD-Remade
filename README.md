@@ -1,16 +1,13 @@
 # McPlayHD-Remade
 weird ass skidded map   
 
-Map made by Helix: https://www.youtube.com/@x2st   
-Original map video: https://youtu.be/rTObD7WmbTs   
-Original map download: https://www.mediafire.com/file/y7v6z62usxvtz3s/MCPLAYHD.zip/file   
+[Map made by Helix](https://www.youtube.com/@x2st)    
+[Original map showcase](https://youtu.be/rTObD7WmbTs)   
+[Original map download](https://www.mediafire.com/file/y7v6z62usxvtz3s/MCPLAYHD.zip/file)   
 
-New map made by Meowaura: https://e-z.bio/meowaura   
-New map video: maybe in the future   
-New map download: https://github.com/smallbing87/McPlayHD-Remade/releases/latest  
-
-the extra modes are for short and inclined only at the moment (mainly for short mode)   
-i prob wont add others bcz im lazy asf   
+[New map made by Meowaura](https://e-z.bio/meowaura)   
+Original map showcase (soon?)   
+[New map download](https://github.com/smallbing87/McPlayHD-Remade/releases/latest)  
 
 server used list (name / ip / status)   
 last check: dec. 8, 2024
