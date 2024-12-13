@@ -1,4 +1,4 @@
-# McPlayHD-Remade
+# McPlayHD-Remake
 weird ass skidded map   
 
 [Map made by Helix](https://www.youtube.com/@x2st)    
