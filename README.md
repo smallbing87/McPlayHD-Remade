@@ -9,6 +9,9 @@ weird ass skidded map
 Original map showcase (soon?)   
 [New map download](https://github.com/smallbing87/McPlayHD-Remade/releases/latest)  
 
+You might like to check out:
+McPlayHD with Extra Short/Long/Inclined Short modes by [Xiomade](https://www.youtube.com/@xiomede) / [Showcase](https://www.youtube.com/watch?v=2fo_Bjbet5I) / [Download](https://www.mediafire.com/file/23ntab20ba2i8lf/McPlayHD_other_modes.zip/file)  
+
 server used list (name / ip / status)   
 last check: dec. 8, 2024
 
