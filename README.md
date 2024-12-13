@@ -1,17 +1,13 @@
 # McPlayHD-Remake
 weird ass skidded map   
 
-[Map made by Helix](https://www.youtube.com/@x2st)    
-[Original map showcase](https://youtu.be/rTObD7WmbTs)   
-[Original map download](https://www.mediafire.com/file/y7v6z62usxvtz3s/MCPLAYHD.zip/file)   
+McPlayHD Full Server Made by [Helix](https://www.youtube.com/@x2st) / [Showcase](https://youtu.be/rTObD7WmbTs) / [Download](https://www.mediafire.com/file/y7v6z62usxvtz3s/MCPLAYHD.zip/file)   
 
-[New map made by Meowaura](https://e-z.bio/meowaura)   
-Original map showcase (soon?)   
-[New map download](https://github.com/smallbing87/McPlayHD-Remade/releases/latest)  
+McPlayHD Remake Made by [Meowaura](https://e-z.bio/meowaura) / Showcase (soon) / [Download](https://github.com/smallbing87/McPlayHD-Remade/releases/latest) / Discord (soon)  
 
 You might like to check out:  
-McPlayHD with Extra Short/Long/Inclined Short modes by [Xiomade](https://www.youtube.com/@xiomede) / [Showcase](https://www.youtube.com/watch?v=2fo_Bjbet5I) / [Download](https://www.mediafire.com/file/23ntab20ba2i8lf/McPlayHD_other_modes.zip/file)  
-Cool Plugins by [hi12167pies](https://pies.cf/) / [Discord](https://discord.gg/YFhE4jP28s)
+McPlayHD with Extra Short/Long/Inclined Short modes by [Xiomade](https://www.youtube.com/@xiomede) / [Showcase](https://youtu.be/2fo_Bjbet5I) / [Download](https://www.mediafire.com/file/23ntab20ba2i8lf/McPlayHD_other_modes.zip/file)  
+Cool Plugins by [hi12167pies](https://pies.cf/) / [Discord](https://discord.gg/YFhE4jP28s)  
 
 server used list (name / ip / status)   
 last check: dec. 8, 2024
