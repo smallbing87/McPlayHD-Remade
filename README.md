@@ -3,7 +3,7 @@ weird ass skidded map
 
 McPlayHD Full Server Made by [Helix](https://www.youtube.com/@x2st) / [Showcase](https://youtu.be/rTObD7WmbTs) / [Download](https://www.mediafire.com/file/y7v6z62usxvtz3s/MCPLAYHD.zip/file)   
 
-McPlayHD Remake Made by [Meowaura](https://e-z.bio/meowaura) / Showcase (soon) / [Download](https://github.com/smallbing87/McPlayHD-Remade/releases/latest) / Discord (soon)  
+McPlayHD Remake Made by [Meowaura](https://e-z.bio/meowaura) / Showcase (soon) / [Download](https://github.com/smallbing87/McPlayHD-Remade/releases/latest)  
 
 You might like to check out:  
 McPlayHD with Extra Short/Long/Inclined Short modes by [Xiomade](https://www.youtube.com/@xiomede) / [Showcase](https://youtu.be/2fo_Bjbet5I) / [Download](https://www.mediafire.com/file/23ntab20ba2i8lf/McPlayHD_other_modes.zip/file)  
