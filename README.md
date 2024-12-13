@@ -1,6 +1,44 @@
 # McPlayHD-Remake
 weird ass skidded map   
 
+## McPlayHD Remake ALL Additional Features
+
+### Island Selector
+
+Choose between the **FOUR** custom starting island that's made just for you.
+
+![image](https://github.com/user-attachments/assets/f2f6f23e-50bc-4f46-8c04-f4f37d054fad)
+
+### Mode Selector
+
+Select the distance and headhitter type you want from **ANY** bridging server.
+
+![image](https://github.com/user-attachments/assets/8d568a95-fd61-4778-b823-c2693df4f6ad)
+
+### Spawn Offset
+
+Customize your spawn offset and teleports you to it every time you respawn.
+
+![image](https://github.com/user-attachments/assets/780df9c3-b0a9-492a-9a5b-1fa20a3f5c6e)
+
+### Practice Block
+
+Place blocks that will never despawn, a perfect way for practicing and finding strategies. 
+
+![2024-12-13_20 47 58](https://github.com/user-attachments/assets/919c0c36-833c-4b8f-9e87-683ded1444b3)
+
+### Practice Presets
+
+Set up the practice blocks automatically for the strategy you are trying.
+
+![2024-12-13_20 51 32](https://github.com/user-attachments/assets/cfed4f41-f232-4d84-8184-cbc6f473148c)
+
+## Notes  
+
+Preferbaly 8+ render distance, haven't actually try how many chuncks you need for rendering. 12 chunks was tested and worked well.  
+The GUI was made based on how it looks with vanilla textures, might not look the same with different texture packs, but the whole thing works the same :D  
+The map was made mainly for short mode, though there are modes added to inclined mode with less time spent. Currently not planning to imporve it.  
+
 ## Map Credit  
 
 McPlayHD Full Server Made by [Helix](https://www.youtube.com/@x2st) / [Showcase](https://youtu.be/rTObD7WmbTs) / [Download](https://www.mediafire.com/file/y7v6z62usxvtz3s/MCPLAYHD.zip/file)   
